@@ -3,7 +3,7 @@ function morder = moselect(stitle,mosel,varargin)
 % Report and select model order
 
 ncrits = length(varargin)/2;
-assert(iscell(varargin) && isvector(varargin) && 2*(ncrits/2) == ncrits,'Model orders must be spupplied as [''name'',values] pairs');
+assert(iscell(varargin) && isvector(varargin) && 2*(ncrits/2) == ncrits,'Model orders must be supplied as [''name'',values] pairs');
 
 nlen = zeros(ncrits,1);
 for c = 1:2:2*ncrits

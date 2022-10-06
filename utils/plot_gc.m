@@ -133,6 +133,7 @@ function plot_gc_mat(F,ptitle,cm,Fmax,nr,nc,i)
 	axis('square');
 	xlabel('from');
 	ylabel('to');
+    %set(gca, 'XAxisLocation', 'top')
 	set(gca,'XTick',1:n);
 	set(gca,'XTickLabel',1:n);
 	set(gca,'YTick',1:m);

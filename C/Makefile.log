@@ -1,0 +1,19 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=mex 2021.7.5)  5 AUG 2022 11:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"CFLAGS=$CFLAGS -std=c99 -march=native -O3 -flto -Wall -Wextra -Wconversion -
+Winline -pedantic-errors -D_POSIX_C_SOURCE=199309L -D_DEFAULT_SOURCE -DMAC" -lm
+wblas -lmwlapack -lmwslicot -outdir ../mex findin_mex.c
+(./Makefile
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+      Makefile for MVGC mex files. Run 'make' from the command line
+? 
+! Emergency stop.
+l.1 #
+      Makefile for MVGC mex files. Run 'make' from the command line
+End of file on the terminal!
+
+No pages of output.
